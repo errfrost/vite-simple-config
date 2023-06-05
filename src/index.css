@@ -1,0 +1,25 @@
+* {
+  /* outline: solid 1px red; */
+}
+
+a {
+  text-decoration: none;
+  color: #4D4D4D;
+}
+
+a:hover {
+  color: #69b1cf;
+  transition: all 0.5s;
+}
+
+body {
+    margin: 0;
+    background-color: #f9fafb;
+    color: #4D4D4D;
+    font-family: 'Roboto';
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
