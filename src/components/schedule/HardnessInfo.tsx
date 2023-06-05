@@ -31,7 +31,8 @@ export default function HardnessInfo({ colors }: Props) {
                 bgcolor: '#f1f4f5',
                 px: { xs: 0, sm: 2, md: 4 },
                 mx: { xs: 0, sm: 2, md: 4 },
-                py: { xs: 2, md: 4 },
+                pt: { xs: 2, md: 4 },
+                pb: { xs: 0, sm: 2, md: 4 },
                 my: 2,
             }}
         >
