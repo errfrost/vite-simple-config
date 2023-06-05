@@ -69,7 +69,8 @@ export default function HardnessInfo({ colors }: Props) {
                                 alignItems: 'center',
                                 justifyContent: 'center',
                                 bgcolor: colors[i + 1],
-                                my: 1,
+                                mt: 1,
+                                mb: { xs: '1px', md: 1 },
                             }}
                         >
                             <Typography variant="h6" component="p">
@@ -77,7 +78,12 @@ export default function HardnessInfo({ colors }: Props) {
                             </Typography>
                         </Paper>
                         <Paper
-                            sx={{ p: 1, my: 1, height: 'calc(100% - 80px)' }}
+                            sx={{
+                                p: 1,
+                                mt: { xs: '1px', md: 1 },
+                                mb: 1,
+                                height: 'calc(100% - 80px)',
+                            }}
                         >
                             <Typography variant="body2" sx={{ p: 1 }}>
                                 {hardness.desc1}
