@@ -53,6 +53,7 @@ function SmallTimeline({ schedule, colors }: MinProps) {
             cycleNavigation={false}
             navButtonsAlwaysVisible
             indicators={false}
+            swipe={false}
             sx={{ flexGrow: 1, pb: 2, height: 640 }}
         >
             {groupWeekDays.map((days, i) => (
