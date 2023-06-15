@@ -1,6 +1,5 @@
 import { Container, Typography } from '@mui/material';
 import EgaParallax from '../components/EgaParallax';
-import GalleryLightBox from '../components/studio/GalleryLightBox';
 import Gallery from '../components/studio/Gallery';
 
 export default function Space() {
