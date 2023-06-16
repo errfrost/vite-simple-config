@@ -4,9 +4,9 @@
             "name": "Алина Матвеенко",
             "photo": "images/teachers/alina-matveenko.webp",
             "gallery": [
-                "images/teachers/alina-matveenko.webp",
-                "images/teachers/alina-matveenko.webp",
-                "images/teachers/alina-matveenko.webp"
+                "images/teachers/alina-matveenko-0.webp",
+                "images/teachers/alina-matveenko-1.webp",
+                "images/teachers/alina-matveenko-2.webp"
             ],
             "link": "alina-matveenko",
             "classes": ["базовая йога", "фитнес-йога"],
@@ -24,9 +24,9 @@
             "name": "Анастасия Абдуллаева",
             "photo": "images/teachers/nastya-belova.webp",
             "gallery": [
-                "images/teachers/nastya-belova.webp",
-                "images/teachers/nastya-belova.webp",
-                "images/teachers/nastya-belova.webp"
+                "images/teachers/nastya-belova-1.webp",
+                "images/teachers/nastya-belova-2.webp",
+                "images/teachers/nastya-belova-0.webp"
             ],
             "link": "anastasia-abdullaeva",
             "classes": ["йога-терапия", "йога для беременных"],
@@ -45,9 +45,9 @@
             "name": "Анастасия Билич",
             "photo": "images/teachers/anastasia-bilich.webp",
             "gallery": [
-                "images/teachers/anastasia-bilich.webp",
-                "images/teachers/anastasia-bilich.webp",
-                "images/teachers/anastasia-bilich.webp"
+                "images/teachers/anastasia-bilich-0.webp",
+                "images/teachers/anastasia-bilich-1.webp",
+                "images/teachers/anastasia-bilich-2.webp"
             ],
             "link": "anastasia-bilich",
             "classes": ["йога-терапия"],
@@ -65,9 +65,9 @@
             "name": "Асият Серикова",
             "photo": "images/teachers/asiyat-serikova.webp",
             "gallery": [
-                "images/teachers/asiyat-serikova.webp",
-                "images/teachers/asiyat-serikova.webp",
-                "images/teachers/asiyat-serikova.webp"
+                "images/teachers/asiyat-serikova-0.webp",
+                "images/teachers/asiyat-serikova-1.webp",
+                "images/teachers/asiyat-serikova-2.webp"
             ],
             "link": "asiyat-serikova",
             "classes": ["йога-утро"],
@@ -99,9 +99,9 @@
             "name": "Дарья Романовская",
             "photo": "images/teachers/darya-romanovskaya.webp",
             "gallery": [
-                "images/teachers/darya-romanovskaya.webp",
-                "images/teachers/darya-romanovskaya.webp",
-                "images/teachers/darya-romanovskaya.webp"
+                "images/teachers/darya-romanovskaya-0.webp",
+                "images/teachers/darya-romanovskaya-1.webp",
+                "images/teachers/darya-romanovskaya-2.webp"
             ],
             "link": "darya-romanovskaya",
             "classes": ["хатха-йога"],
@@ -119,9 +119,9 @@
             "name": "Любовь Юмалиева",
             "photo": "images/teachers/lubov-umalieva.webp",
             "gallery": [
-                "images/teachers/lubov-umalieva.webp",
-                "images/teachers/lubov-umalieva.webp",
-                "images/teachers/lubov-umalieva.webp"
+                "images/teachers/lubov-umalieva-0.webp",
+                "images/teachers/lubov-umalieva-1.webp",
+                "images/teachers/lubov-umalieva-2.webp"
             ],
             "link": "lubov-umalieva",
             "classes": ["хатха-йога"],
@@ -135,9 +135,9 @@
             "name": "Марина Маркина",
             "photo": "images/teachers/marina-markina.webp",
             "gallery": [
-                "images/teachers/marina-markina.webp",
-                "images/teachers/marina-markina.webp",
-                "images/teachers/marina-markina.webp"
+                "images/teachers/marina-markina-0.webp",
+                "images/teachers/marina-markina-1.webp",
+                "images/teachers/marina-markina-2.webp"
             ],
             "link": "marina-markina",
             "classes": ["йога-микс"],
@@ -156,9 +156,9 @@
             "name": "Роман Черноусов",
             "photo": "images/teachers/roman-chernousov.webp",
             "gallery": [
-                "images/teachers/roman-chernousov.webp",
-                "images/teachers/roman-chernousov.webp",
-                "images/teachers/roman-chernousov.webp"
+                "images/teachers/roman-chernousov-0.webp",
+                "images/teachers/roman-chernousov-1.webp",
+                "images/teachers/roman-chernousov-2.webp"
             ],
             "link": "roman-chernousov",
             "classes": ["йога-микс"],
@@ -176,9 +176,9 @@
             "name": "Софья Даничкина",
             "photo": "images/teachers/sofia-danichkina.webp",
             "gallery": [
-                "images/teachers/sofia-danichkina.webp",
-                "images/teachers/sofia-danichkina.webp",
-                "images/teachers/sofia-danichkina.webp"
+                "images/teachers/sofia-danichkina-0.webp",
+                "images/teachers/sofia-danichkina-1.webp",
+                "images/teachers/sofia-danichkina-2.webp"
             ],
             "link": "sofia-danichkina",
             "classes": ["йога-интенсив"],
@@ -195,9 +195,9 @@
             "name": "Таня Курганова",
             "photo": "images/teachers/tanya-kurganova.webp",
             "gallery": [
-                "images/teachers/tanya-kurganova.webp",
-                "images/teachers/tanya-kurganova.webp",
-                "images/teachers/tanya-kurganova.webp"
+                "images/teachers/tanya-kurganova-0.webp",
+                "images/teachers/tanya-kurganova-1.webp",
+                "images/teachers/tanya-kurganova-2.webp"
             ],
             "link": "tanya-kurganova",
             "classes": ["хатха-йога"],
@@ -216,9 +216,9 @@
             "name": "Харидас Чатыркулов",
             "photo": "images/teachers/haridas-chatyrkulov.webp",
             "gallery": [
-                "images/teachers/haridas-chatyrkulov.webp",
-                "images/teachers/haridas-chatyrkulov.webp",
-                "images/teachers/haridas-chatyrkulov.webp"
+                "images/teachers/haridas-chatyrkulov-0.webp",
+                "images/teachers/haridas-chatyrkulov-1.webp",
+                "images/teachers/haridas-chatyrkulov-2.webp"
             ],
             "link": "haridas-chatyrkulov",
             "classes": ["хатха-йога"],
@@ -234,9 +234,9 @@
             "name": "Эдуард Докенов",
             "photo": "images/teachers/eduard-dokenov.webp",
             "gallery": [
-                "images/teachers/eduard-dokenov.webp",
-                "images/teachers/eduard-dokenov.webp",
-                "images/teachers/eduard-dokenov.webp"
+                "images/teachers/eduard-dokenov-0.webp",
+                "images/teachers/eduard-dokenov-1.webp",
+                "images/teachers/eduard-dokenov-2.webp"
             ],
             "link": "eduard-dokenov",
             "classes": ["здоровая спина"],
@@ -254,9 +254,9 @@
             "name": "Юлия Пихота",
             "photo": "images/teachers/yulia-pikhota.webp",
             "gallery": [
-                "images/teachers/yulia-pikhota.webp",
-                "images/teachers/yulia-pikhota.webp",
-                "images/teachers/yulia-pikhota.webp"
+                "images/teachers/yulia-pikhota-0.webp",
+                "images/teachers/yulia-pikhota-1.webp",
+                "images/teachers/yulia-pikhota-2.webp"
             ],
             "link": "yulia-pikhota",
             "classes": ["хатха-йога"],
