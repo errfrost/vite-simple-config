@@ -1,0 +1,22 @@
+name: Deploy
+
+on:
+    push:
+        branches: [ega-hall]
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Deploy using ssh
+              uses: actions/checkout@v2
+              with:
+                  host: ${{ secrets.HOST }}
+                  username: ${{ secrets.USERNAME }}
+                  key: ${{ secrets.SSH_PRIVATE_KEY }}
+                  port: ${{ secrets.PORT }}
+                  script: |
+                      cd /var/www/egahall.kg/
+                      git pull origin ega-hall
+                      npm run build
