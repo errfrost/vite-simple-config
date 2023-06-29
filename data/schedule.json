@@ -1,0 +1,268 @@
+{
+    "schedule": [
+        {
+            "id": 0,
+            "class": "Йога-утро",
+            "teacher": "Асият Серикова",
+            "classLink": "../classes#class6",
+            "teacherLink": "../teachers/asiyat-serikova",
+            "days": ["ПН", "СР", "ПТ"],
+            "timeStart": "7:00",
+            "timeFinish": "8:30",
+            "hardLevel": "2"
+        },
+        {
+            "id": 1,
+            "class": "Здоровая спина",
+            "teacher": "Эдуард Докенов",
+            "classLink": "../classes#class1",
+            "teacherLink": "../teachers/eduard-dokenov",
+            "days": ["ПН", "СР", "ПТ"],
+            "timeStart": "9:00",
+            "timeFinish": "10:30",
+            "hardLevel": "1"
+        },
+        {
+            "id": 2,
+            "class": "Йога-терапия",
+            "teacher": "Анастасия Билич",
+            "classLink": "../classes#class5",
+            "teacherLink": "../teachers/anastasia-bilich",
+            "days": ["ПН", "СР", "ПТ"],
+            "timeStart": "12:00",
+            "timeFinish": "13:30",
+            "hardLevel": "1"
+        },
+        {
+            "id": 3,
+            "class": "Хатха-йога",
+            "teacher": "Асыла Тойгонбаева",
+            "classLink": "../classes#class8",
+            "teacherLink": "../teachers/asyla-toigonbaeva",
+            "days": ["ПН", "СР", "ПТ"],
+            "timeStart": "14:30",
+            "timeFinish": "16:00",
+            "hardLevel": "1"
+        },
+        {
+            "id": 4,
+            "class": "Базовая йога",
+            "teacher": "Алина Матвеенко",
+            "classLink": "../classes#class0",
+            "teacherLink": "../teachers/alina-matveenko",
+            "days": ["ПН", "СР", "ПТ"],
+            "timeStart": "16:30",
+            "timeFinish": "18:00",
+            "hardLevel": "2"
+        },
+        {
+            "id": 5,
+            "class": "Йога-микс",
+            "teacher": "Роман Черноусов",
+            "classLink": "../classes#class4",
+            "teacherLink": "../teachers/roman-chernousov",
+            "days": ["ПН", "СР", "ПТ"],
+            "timeStart": "18:30",
+            "timeFinish": "20:30",
+            "hardLevel": "3"
+        },
+        {
+            "id": 6,
+            "class": "Хатха-йога",
+            "teacher": "Харидас Чатыркулов",
+            "classLink": "../classes#class8",
+            "teacherLink": "../teachers/haridas-chatyrkulov",
+            "days": ["ВТ", "ЧТ"],
+            "timeStart": "7:00",
+            "timeFinish": "8:30",
+            "hardLevel": "2"
+        },
+        {
+            "id": 7,
+            "class": "Хатха-йога",
+            "teacher": "Любовь Юмалиева",
+            "classLink": "../classes#class8",
+            "teacherLink": "../teachers/lubov-umalieva",
+            "days": ["ВТ", "ЧТ"],
+            "timeStart": "9:00",
+            "timeFinish": "10:30",
+            "hardLevel": "2"
+        },
+        {
+            "id": 8,
+            "class": "Йога-микс",
+            "teacher": "Марина Маркина",
+            "classLink": "../classes#class4",
+            "teacherLink": "../teachers/marina-markina",
+            "days": ["ВТ", "ЧТ"],
+            "timeStart": "12:00",
+            "timeFinish": "13:15",
+            "hardLevel": "2"
+        },
+        {
+            "id": 9,
+            "class": "Йога для беременных",
+            "teacher": "Анастасия Абдуллаева",
+            "classLink": "../classes#class2",
+            "teacherLink": "../teachers/anastasia-abdullaeva",
+            "days": ["ВТ", "ЧТ"],
+            "timeStart": "15:00",
+            "timeFinish": "16:20",
+            "hardLevel": "2"
+        },
+        {
+            "id": 10,
+            "class": "Йога-терапия",
+            "teacher": "Анастасия Абдуллаева",
+            "classLink": "../classes#class5",
+            "teacherLink": "../teachers/anastasia-abdullaeva",
+            "days": ["ВТ", "ЧТ"],
+            "timeStart": "16:30",
+            "timeFinish": "18:00",
+            "hardLevel": "3"
+        },
+        {
+            "id": 11,
+            "class": "Йога-интенсив",
+            "teacher": "Софья Даничкина",
+            "classLink": "../classes#class3",
+            "teacherLink": "../teachers/sofia-danichkina",
+            "days": ["ВТ", "ЧТ"],
+            "timeStart": "18:30",
+            "timeFinish": "20:30",
+            "hardLevel": "3"
+        },
+        {
+            "id": 12,
+            "class": "Хатха-йога",
+            "teacher": "Харидас Чатыркулов",
+            "classLink": "../classes#class8",
+            "teacherLink": "../teachers/haridas-chatyrkulov",
+            "days": ["СБ"],
+            "timeStart": "7:00",
+            "timeFinish": "8:30",
+            "hardLevel": "2"
+        },
+        {
+            "id": 13,
+            "class": "Хатха-йога",
+            "teacher": "Любовь Юмалиева",
+            "classLink": "../classes#class8",
+            "teacherLink": "../teachers/lubov-umalieva",
+            "days": ["СБ"],
+            "timeStart": "9:00",
+            "timeFinish": "10:30",
+            "hardLevel": "2"
+        },
+        {
+            "id": 14,
+            "class": "Йога-интенсив",
+            "teacher": "Софья Даничкина",
+            "classLink": "../classes#class3",
+            "teacherLink": "../teachers/sofia-danichkina",
+            "days": ["СБ"],
+            "timeStart": "11:00",
+            "timeFinish": "13:00",
+            "hardLevel": "3"
+        },
+        {
+            "id": 15,
+            "class": "",
+            "teacher": "",
+            "classLink": "",
+            "teacherLink": "",
+            "days": ["СБ"],
+            "timeStart": "",
+            "timeFinish": "",
+            "hardLevel": ""
+        },
+        {
+            "id": 16,
+            "class": "",
+            "teacher": "",
+            "classLink": "",
+            "teacherLink": "",
+            "days": ["СБ"],
+            "timeStart": "",
+            "timeFinish": "",
+            "hardLevel": ""
+        },
+        {
+            "id": 17,
+            "class": "",
+            "teacher": "",
+            "classLink": "",
+            "teacherLink": "",
+            "days": ["СБ"],
+            "timeStart": "",
+            "timeFinish": "",
+            "hardLevel": ""
+        },
+        {
+            "id": 18,
+            "class": "",
+            "teacher": "",
+            "classLink": "",
+            "teacherLink": "",
+            "days": ["ВС"],
+            "timeStart": "",
+            "timeFinish": "",
+            "hardLevel": ""
+        },
+        {
+            "id": 19,
+            "class": "",
+            "teacher": "",
+            "classLink": "",
+            "teacherLink": "",
+            "days": ["ВС"],
+            "timeStart": "",
+            "timeFinish": "",
+            "hardLevel": ""
+        },
+        {
+            "id": 20,
+            "class": "Фитнес-йога",
+            "teacher": "Алина Матвеенко",
+            "classLink": "../classes#class7",
+            "teacherLink": "../teachers/alina-matveenko",
+            "days": ["ВС"],
+            "timeStart": "11:00",
+            "timeFinish": "12:30",
+            "hardLevel": "3"
+        },
+        {
+            "id": 21,
+            "class": "Хатха-йога",
+            "teacher": "Дарья Романовская",
+            "classLink": "../classes#class8",
+            "teacherLink": "../teachers/darya-romanovskaya",
+            "days": ["ВС"],
+            "timeStart": "13:00",
+            "timeFinish": "14:30",
+            "hardLevel": "2"
+        },
+        {
+            "id": 22,
+            "class": "",
+            "teacher": "",
+            "classLink": "",
+            "teacherLink": "",
+            "days": ["ВС"],
+            "timeStart": "",
+            "timeFinish": "",
+            "hardLevel": ""
+        },
+        {
+            "id": 23,
+            "class": "",
+            "teacher": "",
+            "classLink": "",
+            "teacherLink": "",
+            "days": ["ВС"],
+            "timeStart": "",
+            "timeFinish": "",
+            "hardLevel": ""
+        }
+    ]
+}
