@@ -4,7 +4,7 @@ import EgaParallax from '../components/EgaParallax';
 export default function Rules() {
     return (
         <>
-            <EgaParallax image="images/parallax/par10.png" text="" />
+            <EgaParallax image="images/parallax/par_1047.webp" text="" />
 
             <Container maxWidth="lg" sx={{ p: 4 }}>
                 <Typography variant="h2" component="h2" align="center">

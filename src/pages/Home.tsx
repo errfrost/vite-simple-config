@@ -6,7 +6,7 @@ export default function Home() {
     return (
         <>
             <About />
-            <EgaParallax image="images/parallax/par06.png" text="" />
+            <EgaParallax image="images/parallax/par_1047.webp" text="" />
             <BlockMenu />
         </>
     );

@@ -23,7 +23,7 @@ export default function Teacher() {
 
     return (
         <>
-            <EgaParallax image="images/parallax/par09.png" text="" />
+            <EgaParallax image="images/parallax/par_1047.webp" text="" />
 
             <Container
                 maxWidth="lg"

@@ -21,7 +21,7 @@ export default function Teachers() {
 
     return (
         <>
-            <EgaParallax image="images/parallax/par16.png" text="" />
+            <EgaParallax image="images/parallax/par_1047.webp" text="" />
 
             <Container maxWidth="lg" sx={{ p: 4 }}>
                 <Typography variant="h2" component="h2" align="center">
