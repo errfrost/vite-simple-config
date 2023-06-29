@@ -17,6 +17,6 @@ jobs:
                   key: ${{ secrets.SSH_PRIVATE_KEY }}
                   port: ${{ secrets.PORT }}
                   script: |
-                      cd /var/www/egahall.kg/
+                      cd /var/www/egahall.kg/egaSite/
                       git pull origin ega-hall
                       npm run build
