@@ -1,23 +1,54 @@
-name: Build and Deploy
+name: Build & deploy
+
 on:
   push:
     branches:
       - ega-hall
+  pull_request:
+    branches:
+      - ega-hall
+
 jobs:
-  build-and-deploy:
+  build:
+    name: Build
     runs-on: ubuntu-latest
-    concurrency: ci-${{ github.ref }}
+
     steps:
-      - name: Checkout 🛎️
+      - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Install and Build 🔧 # This example project is built using npm and outputs the result to the 'build' folder. Replace with the commands required to build your project, or remove this step entirely if your site is pre-built.
-        run: |
-          npm ci
-          npm run build
-
-      - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@v4
+      - name: Installing Node.js
+        uses: actions/setup-node@v1
         with:
-          branch: gh-pages # The branch the action should deploy to.
-          folder: dist # The folder the action should deploy.
+          node-version: 16.x
+
+      - name: Installing NPM packages
+        run: npm ci
+
+      - name: Building project
+        run: npm run build
+
+      - name: Uploading production-ready build files
+        uses: actions/upload-artifact@v2
+        with:
+          name: production-files
+          path: ./dist
+
+  deploy:
+    name: Deploy
+    needs: build
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+
+    steps:
+      - name: Downloading artifact
+        uses: actions/download-artifact@v2
+        with:
+          name: production-files
+          path: ./dist
+
+      - name: Deploying to gh-pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
