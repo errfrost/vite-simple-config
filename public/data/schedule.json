@@ -80,7 +80,7 @@
         {
             "id": 7,
             "class": "Хатха-йога",
-            "teacher": "Любовь Юмалиева",
+            "teacher": "Любовь Андрианова",
             "classLink": "../classes#class8",
             "teacherLink": "../teachers/lubov-umalieva",
             "days": ["ВТ", "ЧТ"],
@@ -146,7 +146,7 @@
         {
             "id": 13,
             "class": "Хатха-йога",
-            "teacher": "Любовь Юмалиева",
+            "teacher": "Любовь Андрианова",
             "classLink": "../classes#class8",
             "teacherLink": "../teachers/lubov-umalieva",
             "days": ["СБ"],
