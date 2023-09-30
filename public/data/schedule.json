@@ -2,10 +2,10 @@
     "schedule": [
         {
             "id": 0,
-            "class": "Йога-утро",
-            "teacher": "Асият Серикова",
-            "classLink": "../classes#class6",
-            "teacherLink": "../teachers/asiyat-serikova",
+            "class": "Хатха-йога",
+            "teacher": "Харидас Чатыркулов",
+            "classLink": "../classes#class8",
+            "teacherLink": "../teachers/haridas-chatyrkulov",
             "days": ["ПН", "СР", "ПТ"],
             "timeStart": "7:00",
             "timeFinish": "8:30",
@@ -52,7 +52,7 @@
             "teacherLink": "../teachers/alina-matveenko",
             "days": ["ПН", "СР", "ПТ"],
             "timeStart": "16:30",
-            "timeFinish": "18:00",
+            "timeFinish": "18:10",
             "hardLevel": "2"
         },
         {
@@ -69,9 +69,9 @@
         {
             "id": 6,
             "class": "Хатха-йога",
-            "teacher": "Харидас Чатыркулов",
+            "teacher": "Дарья Романовская",
             "classLink": "../classes#class8",
-            "teacherLink": "../teachers/haridas-chatyrkulov",
+            "teacherLink": "../teachers/darya-romanovskaya",
             "days": ["ВТ", "ЧТ"],
             "timeStart": "7:00",
             "timeFinish": "8:30",
@@ -134,14 +134,14 @@
         },
         {
             "id": 12,
-            "class": "Хатха-йога",
-            "teacher": "Харидас Чатыркулов",
-            "classLink": "../classes#class8",
-            "teacherLink": "../teachers/haridas-chatyrkulov",
+            "class": "",
+            "teacher": "",
+            "classLink": "",
+            "teacherLink": "",
             "days": ["СБ"],
-            "timeStart": "7:00",
-            "timeFinish": "8:30",
-            "hardLevel": "2"
+            "timeStart": "",
+            "timeFinish": "",
+            "hardLevel": ""
         },
         {
             "id": 13,
@@ -156,14 +156,14 @@
         },
         {
             "id": 14,
-            "class": "Йога-интенсив",
-            "teacher": "Софья Даничкина",
-            "classLink": "../classes#class3",
-            "teacherLink": "../teachers/sofia-danichkina",
+            "class": "Хатха-йога",
+            "teacher": "Татьяна Курганова",
+            "classLink": "../classes#class8",
+            "teacherLink": "../teachers/tanya-kurganova",
             "days": ["СБ"],
             "timeStart": "11:00",
-            "timeFinish": "13:00",
-            "hardLevel": "3"
+            "timeFinish": "12:30",
+            "hardLevel": "2"
         },
         {
             "id": 15,
@@ -211,14 +211,14 @@
         },
         {
             "id": 19,
-            "class": "",
-            "teacher": "",
+            "class": "Аштанга-виньяса йога",
+            "teacher": "Любовь Андрианова",
             "classLink": "",
-            "teacherLink": "",
+            "teacherLink": "../teachers/lubov-umalieva",
             "days": ["ВС"],
-            "timeStart": "",
-            "timeFinish": "",
-            "hardLevel": ""
+            "timeStart": "9:00",
+            "timeFinish": "10:30",
+            "hardLevel": "2"
         },
         {
             "id": 20,
@@ -228,7 +228,7 @@
             "teacherLink": "../teachers/alina-matveenko",
             "days": ["ВС"],
             "timeStart": "11:00",
-            "timeFinish": "12:30",
+            "timeFinish": "12:40",
             "hardLevel": "3"
         },
         {
