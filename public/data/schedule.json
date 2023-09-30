@@ -213,7 +213,7 @@
             "id": 19,
             "class": "Аштанга-виньяса йога",
             "teacher": "Любовь Андрианова",
-            "classLink": "",
+            "classLink": "../classes#class6",
             "teacherLink": "../teachers/lubov-umalieva",
             "days": ["ВС"],
             "timeStart": "9:00",
