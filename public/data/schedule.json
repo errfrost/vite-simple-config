@@ -172,8 +172,8 @@
             "classLink": "../classes#class3",
             "teacherLink": "../teachers/sofia-danichkina",
             "days": ["СБ"],
-            "timeStart": "13-00",
-            "timeFinish": "15-00",
+            "timeStart": "13:00",
+            "timeFinish": "15:00",
             "hardLevel": "3"
         },
         {
