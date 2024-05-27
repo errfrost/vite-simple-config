@@ -167,14 +167,14 @@
         },
         {
             "id": 15,
-            "class": "Йога-интенсив",
-            "teacher": "Софья Даничкина",
-            "classLink": "../classes#class3",
-            "teacherLink": "../teachers/sofia-danichkina",
+            "class": "Виньяса-флоу йога",
+            "teacher": "Яна Чолакиди",
+            "classLink": "../classes",
+            "teacherLink": "../teachers",
             "days": ["СБ"],
             "timeStart": "13:00",
-            "timeFinish": "15:00",
-            "hardLevel": "3"
+            "timeFinish": "14:30",
+            "hardLevel": "2"
         },
         {
             "id": 16,
