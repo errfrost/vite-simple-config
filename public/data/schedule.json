@@ -68,10 +68,10 @@
         },
         {
             "id": 6,
-            "class": "Хатха-йога",
-            "teacher": "Дарья Романовская",
-            "classLink": "../classes#class8",
-            "teacherLink": "../teachers/darya-romanovskaya",
+            "class": "Йога-утро",
+            "teacher": "Таня Курганова",
+            "classLink": "../classes",
+            "teacherLink": "../teachers/tanya-kurganova",
             "days": ["ВТ", "ЧТ"],
             "timeStart": "7:00",
             "timeFinish": "8:30",
@@ -124,12 +124,12 @@
         {
             "id": 11,
             "class": "Йога-интенсив",
-            "teacher": "Софья Даничкина",
+            "teacher": "Алина Матвеенко",
             "classLink": "../classes#class3",
-            "teacherLink": "../teachers/sofia-danichkina",
+            "teacherLink": "../teachers/alina-matveenko",
             "days": ["ВТ", "ЧТ"],
             "timeStart": "18:30",
-            "timeFinish": "20:30",
+            "timeFinish": "20:10",
             "hardLevel": "3"
         },
         {
@@ -157,9 +157,9 @@
         {
             "id": 14,
             "class": "Хатха-йога",
-            "teacher": "Таня Курганова",
+            "teacher": "Вероника Кондратьева",
             "classLink": "../classes#class8",
-            "teacherLink": "../teachers/tanya-kurganova",
+            "teacherLink": "../teachers",
             "days": ["СБ"],
             "timeStart": "11:00",
             "timeFinish": "12:30",
