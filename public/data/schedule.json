@@ -211,14 +211,14 @@
         },
         {
             "id": 19,
-            "class": "Аштанга-виньяса йога",
+            "class": "Аштанга-йога(лед)",
             "teacher": "Любовь Андрианова",
             "classLink": "../classes#class6",
             "teacherLink": "../teachers/lubov-umalieva",
             "days": ["ВС"],
             "timeStart": "9:00",
-            "timeFinish": "10:30",
-            "hardLevel": "2"
+            "timeFinish": "10:40",
+            "hardLevel": "3"
         },
         {
             "id": 20,
