@@ -46,7 +46,7 @@
         },
         {
             "id": 4,
-            "class": "Базовая йога",
+            "class": "Силовая йога",
             "teacher": "Алина Матвеенко",
             "classLink": "../classes#class0",
             "teacherLink": "../teachers/alina-matveenko",
@@ -112,9 +112,9 @@
         },
         {
             "id": 10,
-            "class": "Йога-терапия",
+            "class": "Силовая йога",
             "teacher": "Анастасия Абдуллаева",
-            "classLink": "../classes#class5",
+            "classLink": "../classes#class0",
             "teacherLink": "../teachers/anastasia-abdullaeva",
             "days": ["ВТ", "ЧТ"],
             "timeStart": "16:30",
@@ -145,14 +145,14 @@
         },
         {
             "id": 13,
-            "class": "Хатха-йога",
+            "class": "Аштанга-йога (лед)",
             "teacher": "Любовь Андрианова",
-            "classLink": "../classes#class8",
+            "classLink": "../classes#class6",
             "teacherLink": "../teachers/lubov-umalieva",
             "days": ["СБ"],
             "timeStart": "9:00",
-            "timeFinish": "10:30",
-            "hardLevel": "2"
+            "timeFinish": "10:40",
+            "hardLevel": "3"
         },
         {
             "id": 14,
@@ -211,7 +211,7 @@
         },
         {
             "id": 19,
-            "class": "Аштанга-йога (лед)",
+            "class": "Аштанга-йога (майсор)",
             "teacher": "Любовь Андрианова",
             "classLink": "../classes#class6",
             "teacherLink": "../teachers/lubov-umalieva",
