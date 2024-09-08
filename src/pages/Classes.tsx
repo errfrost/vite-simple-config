@@ -152,7 +152,12 @@ export default function Classes() {
                             >
                                 {currentClass.class}
                             </Typography>
-                            <Typography variant="body2" component="p" p={2}>
+                            <Typography
+                                variant="body2"
+                                component="p"
+                                p={2}
+                                sx={{ whiteSpace: 'pre-line', pb: 4 }}
+                            >
                                 {currentClass.description}
                             </Typography>
                         </Paper>
