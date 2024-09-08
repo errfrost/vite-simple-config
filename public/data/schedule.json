@@ -70,7 +70,7 @@
             "id": 6,
             "class": "Йога-утро",
             "teacher": "Таня Курганова",
-            "classLink": "../classes",
+            "classLink": "../classes#class10",
             "teacherLink": "../teachers/tanya-kurganova",
             "days": ["ВТ", "ЧТ"],
             "timeStart": "7:00",
