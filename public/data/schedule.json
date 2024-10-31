@@ -12,15 +12,15 @@
             "hardLevel": "2"
         },
         {
-            "id": 1,
-            "class": "Здоровая спина",
-            "teacher": "Эдуард Докенов",
-            "classLink": "../classes#class1",
-            "teacherLink": "../teachers/eduard-dokenov",
+          "id": 1,
+            "class": "Хатха-йога",
+            "teacher": "Юлия Хуторская",
+            "classLink": "../classes#class8",
+            "teacherLink": "../teachers/yulia-pikhota",
             "days": ["ПН", "СР", "ПТ"],
             "timeStart": "9:00",
             "timeFinish": "10:30",
-            "hardLevel": "1"
+            "hardLevel": "2"
         },
         {
             "id": 2,
@@ -79,14 +79,14 @@
         },
         {
             "id": 7,
-            "class": "Хатха-йога",
-            "teacher": "Юлия Хуторская",
-            "classLink": "../classes#class8",
-            "teacherLink": "../teachers/yulia-pikhota",
+            "class": "Здоровая спина",
+            "teacher": "Ульяна Чотонова",
+            "classLink": "../classes#class1",
+            "teacherLink": "../teachers/",
             "days": ["ВТ", "ЧТ"],
-            "timeStart": "9:00",
-            "timeFinish": "10:30",
-            "hardLevel": "2"
+            "timeStart": "10:00",
+            "timeFinish": "11:30",
+            "hardLevel": "1"
         },
         {
             "id": 8,
@@ -106,8 +106,8 @@
             "classLink": "../classes#class2",
             "teacherLink": "../teachers/anastasia-abdullaeva",
             "days": ["ВТ", "ЧТ"],
-            "timeStart": "15:00",
-            "timeFinish": "16:20",
+            "timeStart": "14:30",
+            "timeFinish": "15:50",
             "hardLevel": "2"
         },
         {
@@ -117,8 +117,8 @@
             "classLink": "../classes#class0",
             "teacherLink": "../teachers/anastasia-abdullaeva",
             "days": ["ВТ", "ЧТ"],
-            "timeStart": "16:30",
-            "timeFinish": "18:00",
+            "timeStart": "16:00",
+            "timeFinish": "17:30",
             "hardLevel": "3"
         },
         {
