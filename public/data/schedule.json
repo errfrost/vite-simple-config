@@ -46,13 +46,13 @@
         },
         {
             "id": 4,
-            "class": "Силовая йога",
-            "teacher": "Алина Матвеенко",
-            "classLink": "../classes#class0",
-            "teacherLink": "../teachers/alina-matveenko",
+            "class": "Динамическая йога",
+            "teacher": "Индира Максутова",
+            "classLink": "../classes",
+            "teacherLink": "../teachers/",
             "days": ["ПН", "СР", "ПТ"],
             "timeStart": "16:30",
-            "timeFinish": "18:10",
+            "timeFinish": "18:00",
             "hardLevel": "2"
         },
         {
