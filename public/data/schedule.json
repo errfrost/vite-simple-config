@@ -48,7 +48,7 @@
             "id": 4,
             "class": "Динамическая йога",
             "teacher": "Индира Максутова",
-            "classLink": "../classes",
+            "classLink": "../classes#class7",
             "teacherLink": "../teachers/",
             "days": ["ПН", "СР", "ПТ"],
             "timeStart": "16:30",
