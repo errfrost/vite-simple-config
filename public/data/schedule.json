@@ -57,14 +57,14 @@
         },
         {
             "id": 5,
-            "class": "Йога-микс",
-            "teacher": "Роман Черноусов",
-            "classLink": "../classes#class4",
-            "teacherLink": "../teachers/roman-chernousov",
+            "class": "Хатха-йога",
+            "teacher": "Харидас Чатыркулов",
+            "classLink": "../classes#class8",
+            "teacherLink": "../teachers/haridas-chatyrkulov",
             "days": ["ПН", "СР", "ПТ"],
             "timeStart": "18:30",
-            "timeFinish": "20:10",
-            "hardLevel": "3"
+            "timeFinish": "20:00",
+            "hardLevel": "2"
         },
         {
             "id": 6,
@@ -112,14 +112,14 @@
         },
         {
             "id": 10,
-            "class": "Силовая йога",
+            "class": "Йога-терапия",
             "teacher": "Анастасия Абдуллаева",
-            "classLink": "../classes#class0",
+            "classLink": "../classes#class5",
             "teacherLink": "../teachers/anastasia-abdullaeva",
             "days": ["ВТ", "ЧТ"],
             "timeStart": "16:00",
             "timeFinish": "17:30",
-            "hardLevel": "3"
+            "hardLevel": "2"
         },
         {
             "id": 11,
