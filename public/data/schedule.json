@@ -53,7 +53,7 @@
             "days": ["ПН", "СР", "ПТ"],
             "timeStart": "16:30",
             "timeFinish": "18:00",
-            "hardLevel": "2"
+            "hardLevel": "3"
         },
         {
             "id": 5,
