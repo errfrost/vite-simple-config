@@ -5,7 +5,7 @@ import {
     Phone,
     Instagram,
     Telegram,
-    YouTube,
+    // YouTube,
 } from '@mui/icons-material';
 import MUIIcon from '../../helpers/icons';
 
