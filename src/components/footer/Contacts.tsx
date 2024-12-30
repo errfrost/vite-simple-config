@@ -42,12 +42,12 @@ const contactDetails = [
         text: 'Telegram канал',
         link: 'https://t.me/egahall',
     },
-    {
-        id: 8,
-        icon: YouTube,
-        text: 'ЁGA hall на YouTube',
-        link: 'https://www.youtube.com/channel/UCLhMSTnZRpZIOhfzpFlYcOA/',
-    },
+    // {
+    //     id: 8,
+    //     icon: YouTube,
+    //     text: 'ЁGA hall на YouTube',
+    //     link: 'https://www.youtube.com/channel/UCLhMSTnZRpZIOhfzpFlYcOA/',
+    // },
 ];
 
 export default function Contacts() {
@@ -56,7 +56,7 @@ export default function Contacts() {
             sx={{
                 flexGrow: 0,
                 minWidth: 285,
-                alignSelf: { xs: 'flex-start', md: 'center' },
+                alignSelf: { xs: 'flex-start' },
             }}
         >
             <div id="contacts" />
