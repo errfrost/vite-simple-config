@@ -4,21 +4,21 @@ import EgaParallax from '../components/EgaParallax';
 
 const priceList = [
     {
-        price: 4000,
+        price: 5000,
         lessons: '12 занятий',
         duration: 'действует 5 недель',
     },
     {
-        price: 3500,
+        price: 4500,
         lessons: '8 занятий',
         duration: 'действует 5 недель',
     },
     {
-        price: 2000,
+        price: 3000,
         lessons: '4 занятия',
         duration: 'действует 5 недель',
     },
-    { price: 600, lessons: '1 занятие', duration: 'разовое посещение' },
+    { price: 800, lessons: '1 занятие', duration: 'разовое посещение' },
 ];
 
 export default function Price() {
@@ -47,7 +47,7 @@ export default function Price() {
                                     flex: '1 1 0px',
                                     textAlign: 'center',
                                     width: 235,
-                                    height: 220,
+                                    height: 140,
                                 }}
                             >
                                 <Typography
@@ -57,11 +57,11 @@ export default function Price() {
                                 >
                                     {abonement.price}
                                 </Typography>
+                                <Divider style={{ width: '50%' }} />
                                 <Typography variant="h6" sx={{ py: 2 }}>
                                     {abonement.lessons}
                                 </Typography>
-                                <Divider style={{ width: '50%' }} />
-                                <Typography
+                                {/* <Typography
                                     variant="h6"
                                     sx={{
                                         fontSize: '1rem',
@@ -70,13 +70,48 @@ export default function Price() {
                                     }}
                                 >
                                     {abonement.duration}
-                                </Typography>
+                                </Typography> */}
                             </Paper>
                         </Grid>
                     ))}
                 </Grid>
-                <Typography variant="body2" align="center">
-                    Израсходовать абонемент вы можете раньше срока действия.
+                <Typography
+                    variant="body2"
+                    align="center"
+                    sx={{ py: 1, px: 5 }}
+                >
+                    Срок действия любого абонемента 5 календарных недель, в этот
+                    срок уже включена дополнительная неделя на случай пропусков.
+                    Израсходовать абонемент вы можете раньше окончания его
+                    срока.
+                </Typography>
+                <Typography
+                    variant="body2"
+                    align="center"
+                    sx={{ py: 1, px: 5 }}
+                >
+                    Абонемент не закрепляется за одной группой или инструктором,
+                    вы можете посещать все занятия студии по расписанию.
+                </Typography>
+                <Typography
+                    variant="body2"
+                    align="center"
+                    sx={{ py: 1, px: 5 }}
+                >
+                    Абонемент необходимо активировать в течение месяца с момента
+                    покупки. Через 30 дней после покупки абонемент активируется
+                    автоматически.{' '}
+                </Typography>
+                <Typography
+                    variant="body2"
+                    align="center"
+                    sx={{ py: 1, px: 5 }}
+                >
+                    Если по каким-то причинам вы не успеваете проходить все
+                    занятия за 5 недель, вы можете воспользоваться платной
+                    услугой продления срока абонемента: на 1 день - 100 сом, на
+                    1 неделю (7 дней) - 500 сом, на 1 месяц (30 дней) - 1000
+                    сом.{' '}
                 </Typography>
             </Container>
         </>
