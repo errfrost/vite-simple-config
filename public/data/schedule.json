@@ -67,6 +67,17 @@
             "hardLevel": "2"
         },
         {
+            "id": 24,
+            "class": "Аштанга-йога (лед)",
+            "teacher": "Харидас Чатыркулов",
+            "classLink": "../classes#class6",
+            "teacherLink": "../teachers/haridas-chatyrkulov",
+            "days": ["ПН", "СР", "ПТ"],
+            "timeStart": "20:15",
+            "timeFinish": "21:30",
+            "hardLevel": "2"
+        },
+        {
             "id": 6,
             "class": "Йога-утро",
             "teacher": "Таня Курганова",
@@ -133,6 +144,17 @@
             "hardLevel": "3"
         },
         {
+            "id": 25,
+            "class": "",
+            "teacher": "",
+            "classLink": "",
+            "teacherLink": "",
+            "days": ["ВТ", "ЧТ"],
+            "timeStart": "",
+            "timeFinish": "",
+            "hardLevel": ""
+        },
+        {
             "id": 12,
             "class": "",
             "teacher": "",
@@ -189,6 +211,17 @@
         },
         {
             "id": 17,
+            "class": "",
+            "teacher": "",
+            "classLink": "",
+            "teacherLink": "",
+            "days": ["СБ"],
+            "timeStart": "",
+            "timeFinish": "",
+            "hardLevel": ""
+        },
+        {
+            "id": 27,
             "class": "",
             "teacher": "",
             "classLink": "",
@@ -263,6 +296,17 @@
             "timeStart": "",
             "timeFinish": "",
             "hardLevel": ""
+        },
+        {
+            "id": 26,
+            "class": "",
+            "teacher": "",
+            "classLink": "",
+            "teacherLink": "",
+            "days": ["ВС"],
+            "timeStart": "",
+            "timeFinish": "",
+            "hardLevel": ""
         }
-    ]
+  ]
 }
