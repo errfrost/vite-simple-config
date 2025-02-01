@@ -54,7 +54,7 @@ function SmallTimeline({ schedule, colors }: MinProps) {
             navButtonsAlwaysVisible
             indicators={false}
             swipe={false}
-            sx={{ flexGrow: 1, pb: 2, height: 640 }}
+            sx={{ flexGrow: 1, pb: 2, height: 740 }}
         >
             {groupWeekDays.map((days, i) => (
                 <Box key={i} textAlign="center">
